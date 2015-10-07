@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'github-pages'
+gem 'mysql2'
+gem 'sequel'
+gem 'unidecode'
+gem 'jekyll-import'
