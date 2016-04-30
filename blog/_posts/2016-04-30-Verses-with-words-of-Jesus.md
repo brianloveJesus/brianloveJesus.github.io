@@ -1,5 +1,5 @@
 ---
-title: Love your brother
+title: Verses where Jesus speaks
 layout: defaultLoveJesus
 ---
 Acts01:04
